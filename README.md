@@ -7,14 +7,14 @@ While the culture has been proving to be really fruitful for Knolders, there are
 - Some people are writing blogs just to increase blog count.
 - Some are writing blogs just because they have to achieve the blog target decided by their team leaders.
 - Some are writing blogs just because it counts in increment process.
-- If you observe closely most of people post blogs around one on ones or around self appraisal process.
+- If you observe closely most of the people post blogs around one on ones or around self appraisal process.
 - Some people get noticed when their blog get noticed or posted somewhere and some remain unnoticed.
 - According to new blogging process, each and every person has to submit their blogs to team leaders, team leaders have to  review the blog and only team leader can post the blog, which makes posting process a little bit lengthier and also increases the workload of every team leader.
 
 This project aims at making blogging fun for Knolders by introducing badges and tags in the blogging system.
 
 1. There will be three types of badges which are bronze, silver and gold and rules to earn a badge will be :-
-   - Every time a person get bloger of month for highest numbers of views than other then amazon voucher he/she will also earn a bronze badge.
+    - Every time a person get bloger of month for highest numbers of views than other then amazon voucher he/she will also earn a bronze badge.
     - Every time a person’s blog get noticed somewhere(i.e on DZzone or any other site) than other then praise on slack or slack tacos he/she will also earn a silver  badge.
     - 10 bronze badges will convert into one silver badge means after earning 10 bronze badges your 10 bronze badges will convert into 1 silver badge.
     - 10 silver badges will convert into one gold badge means after earning 10 silver badges your 10 silver badges will convert into 1 gold badge.
