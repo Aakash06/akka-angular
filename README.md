@@ -1,2 +1,0 @@
-# akka-angular
-# akka-angular
